@@ -1,0 +1,11 @@
+{
+  "name": "Ecommunity",
+  "version": "0.0.1",
+  "description": "Description of your Cloud Functions project",
+  "main": "package.json",
+  "author": "Byrron",
+  "dependencies": {
+    "firebase-admin": "^9.0.0",
+    "firebase-functions": "^3.0.0"
+  }
+}

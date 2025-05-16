@@ -1,0 +1,170 @@
+// Export pages
+export '/onboarding_pages/on_boarding_screen/on_boarding_screen_widget.dart'
+    show OnBoardingScreenWidget;
+export '/authentication/login_screen/login_screen_widget.dart'
+    show LoginScreenWidget;
+export '/authentication/sign_up_screen_step1/sign_up_screen_step1_widget.dart'
+    show SignUpScreenStep1Widget;
+export '/nav_bar/dashboard/dashboard_widget.dart' show DashboardWidget;
+export '/authentication/sign_up_screen_step2/sign_up_screen_step2_widget.dart'
+    show SignUpScreenStep2Widget;
+export '/profile/profile_page/profile_page_widget.dart' show ProfilePageWidget;
+export '/profile/my_account_page/my_account_page_widget.dart'
+    show MyAccountPageWidget;
+export '/nav_bar/notification/notification_widget.dart' show NotificationWidget;
+export '/nav_bar/blogspot/blogspot_widget.dart' show BlogspotWidget;
+export '/schedule/schedules_page/schedules_page_widget.dart'
+    show SchedulesPageWidget;
+export '/garbage_collection_schedule/sched_viewing/sched_viewing_widget.dart'
+    show SchedViewingWidget;
+export '/profile/manage_acc_page/manage_acc_page_widget.dart'
+    show ManageAccPageWidget;
+export '/profile/acc_deletion_page/acc_deletion_page_widget.dart'
+    show AccDeletionPageWidget;
+export '/onboarding_pages/on_boarding_screen1/on_boarding_screen1_widget.dart'
+    show OnBoardingScreen1Widget;
+export '/onboarding_pages/on_boarding_screen2/on_boarding_screen2_widget.dart'
+    show OnBoardingScreen2Widget;
+export '/onboarding_pages/on_boarding_screen3/on_boarding_screen3_widget.dart'
+    show OnBoardingScreen3Widget;
+export '/profile/change_password_page/change_password_page_widget.dart'
+    show ChangePasswordPageWidget;
+export '/super_admin/file_management/file_management_widget.dart'
+    show FileManagementWidget;
+export '/super_admin/manage_residents/manage_resident_page/manage_resident_page_widget.dart'
+    show ManageResidentPageWidget;
+export '/super_admin/manage_residents/view_user_page/view_user_page_widget.dart'
+    show ViewUserPageWidget;
+export '/super_admin/manage_residents/deleted_resident_page/deleted_resident_page_widget.dart'
+    show DeletedResidentPageWidget;
+export '/super_admin/manage_admin/manage_admin_page/manage_admin_page_widget.dart'
+    show ManageAdminPageWidget;
+export '/super_admin/manage_admin/create_new_admin/create_new_admin_widget.dart'
+    show CreateNewAdminWidget;
+export '/super_admin/manage_admin/view_admin_page/view_admin_page_widget.dart'
+    show ViewAdminPageWidget;
+export '/super_admin/manage_admin/archived_accounts/archived_accounts_widget.dart'
+    show ArchivedAccountsWidget;
+export '/super_admin/manage_admin/roles_n_priveleges_page/roles_n_priveleges_page_widget.dart'
+    show RolesNPrivelegesPageWidget;
+export '/super_admin/manage_drivers/manage_drivers_page/manage_drivers_page_widget.dart'
+    show ManageDriversPageWidget;
+export '/super_admin/manage_drivers/inactive_accounts/inactive_accounts_widget.dart'
+    show InactiveAccountsWidget;
+export '/super_admin/manage_drivers/view_driver_page/view_driver_page_widget.dart'
+    show ViewDriverPageWidget;
+export '/super_admin/manage_drivers/add_new_driver/add_new_driver_widget.dart'
+    show AddNewDriverWidget;
+export '/super_admin/manage_drivers/collection_records/collection_records_widget.dart'
+    show CollectionRecordsWidget;
+export '/super_admin/manage_trucks/manage_trucks_page/manage_trucks_page_widget.dart'
+    show ManageTrucksPageWidget;
+export '/super_admin/manage_trucks/archived_trucks/archived_trucks_widget.dart'
+    show ArchivedTrucksWidget;
+export '/super_admin/manage_junkshop/manage_junkshop_page/manage_junkshop_page_widget.dart'
+    show ManageJunkshopPageWidget;
+export '/super_admin/manage_junkshop/add_new_junkshop/add_new_junkshop_widget.dart'
+    show AddNewJunkshopWidget;
+export '/super_admin/manage_junkshop/view_junkshop_page/view_junkshop_page_widget.dart'
+    show ViewJunkshopPageWidget;
+export '/super_admin/manage_junkshop/deactivated_junkshop_page/deactivated_junkshop_page_widget.dart'
+    show DeactivatedJunkshopPageWidget;
+export '/junkshop_owner/service_information/service_information/service_information_widget.dart'
+    show ServiceInformationWidget;
+export '/junkshop_owner/service_information/accepted_junk_page/accepted_junk_page_widget.dart'
+    show AcceptedJunkPageWidget;
+export '/junkshop_owner/staff/manage_staff_page/manage_staff_page_widget.dart'
+    show ManageStaffPageWidget;
+export '/junkshop_owner/staff/view_staff_page/view_staff_page_widget.dart'
+    show ViewStaffPageWidget;
+export '/junkshop_owner/staff/former_staff_page/former_staff_page_widget.dart'
+    show FormerStaffPageWidget;
+export '/junkshop/junkshops/junkshops_widget.dart' show JunkshopsWidget;
+export '/junkshop/view_junkshop/view_junkshop_widget.dart'
+    show ViewJunkshopWidget;
+export '/junkshop/junkshop_appointment/junkshop_appointment_widget.dart'
+    show JunkshopAppointmentWidget;
+export '/blogspot/blogspot_draft/blogspot_draft_widget.dart'
+    show BlogspotDraftWidget;
+export '/nav_bar/pin_location/pin_location_widget.dart' show PinLocationWidget;
+export '/super_admin/waste_type/waste_type_page/waste_type_page_widget.dart'
+    show WasteTypePageWidget;
+export '/garbage_collection_schedule/edit_reg_shed/edit_reg_shed_widget.dart'
+    show EditRegShedWidget;
+export '/waste_segregator/waste_segregation_reports/waste_segregation_reports_widget.dart'
+    show WasteSegregationReportsWidget;
+export '/waste_segregator/reports_log/reports_log_widget.dart'
+    show ReportsLogWidget;
+export '/junkshop_owner/bookings/manage_bookings/manage_bookings_widget.dart'
+    show ManageBookingsWidget;
+export '/junkshop/my_appointment/my_appointment_widget.dart'
+    show MyAppointmentWidget;
+export '/junkshop_owner/bookings/cancelled_bookings/cancelled_bookings_widget.dart'
+    show CancelledBookingsWidget;
+export '/junkshop/payment_page/payment_page_widget.dart' show PaymentPageWidget;
+export '/junkshop/quantifying_page/quantifying_page_widget.dart'
+    show QuantifyingPageWidget;
+export '/junkshop_owner/bookings/completed_bookings/completed_bookings_widget.dart'
+    show CompletedBookingsWidget;
+export '/junkshop/google_map_page/google_map_page_widget.dart'
+    show GoogleMapPageWidget;
+export '/junkshop_owner/reports_page/reports_page_widget.dart'
+    show ReportsPageWidget;
+export '/junkshop_owner/transacations/transacations_widget.dart'
+    show TransacationsWidget;
+export '/profile/account_verification_page/account_verification_page_widget.dart'
+    show AccountVerificationPageWidget;
+export '/super_admin/manage_residents/verification_requests/manage_verification/manage_verification_widget.dart'
+    show ManageVerificationWidget;
+export '/super_admin/manage_residents/verification_requests/verification_page/verification_page_widget.dart'
+    show VerificationPageWidget;
+export '/super_admin/manage_residents/verification_requests/verification_history/verification_history_widget.dart'
+    show VerificationHistoryWidget;
+export '/blogspot/creat_post_page/creat_post_page_widget.dart'
+    show CreatPostPageWidget;
+export '/blogspot/view_post/view_post_widget.dart' show ViewPostWidget;
+export '/eco_reports/res_eco_reports/res_eco_reports_widget.dart'
+    show ResEcoReportsWidget;
+export '/eco_reports/res_reports_history/res_reports_history_widget.dart'
+    show ResReportsHistoryWidget;
+export '/eco_reports/adm_eco_reports/adm_eco_reports_widget.dart'
+    show AdmEcoReportsWidget;
+export '/eco_reports/adm_concern_types/adm_concern_types_widget.dart'
+    show AdmConcernTypesWidget;
+export '/eco_reports/adm_false_reports/adm_false_reports_widget.dart'
+    show AdmFalseReportsWidget;
+export '/eco_reports/adm_view_report_details/adm_view_report_details_widget.dart'
+    show AdmViewReportDetailsWidget;
+export '/leaderboard/leaderboard/leaderboard_widget.dart'
+    show LeaderboardWidget;
+export '/announcement/all_announcements/all_announcements_widget.dart'
+    show AllAnnouncementsWidget;
+export '/miscellaneous/contact_us/contact_us_widget.dart' show ContactUsWidget;
+export '/miscellaneous/terms_and_conditions/terms_and_conditions_widget.dart'
+    show TermsAndConditionsWidget;
+export '/miscellaneous/about_page/about_page_widget.dart' show AboutPageWidget;
+export '/nav_bar/pdf/pdf_widget.dart' show PdfWidget;
+export '/driver/collection_history/collection_history_widget.dart'
+    show CollectionHistoryWidget;
+export '/ai_recyclables/ai_recyclables_widget.dart' show AiRecyclablesWidget;
+export '/nav_bar/auction_main_page/auction_main_page_widget.dart'
+    show AuctionMainPageWidget;
+export '/auction/res_post_auction/res_post_auction_widget.dart'
+    show ResPostAuctionWidget;
+export '/blogspot_a_i/blogspot_a_i_widget.dart' show BlogspotAIWidget;
+export '/auction/res_transaction/res_transaction_widget.dart'
+    show ResTransactionWidget;
+export '/auction/j_s_transactions/j_s_transactions_widget.dart'
+    show JSTransactionsWidget;
+export '/auction/j_s_view_payables_completed/j_s_view_payables_completed_widget.dart'
+    show JSViewPayablesCompletedWidget;
+export '/auction/res_auction_history/res_auction_history_widget.dart'
+    show ResAuctionHistoryWidget;
+export '/auction/res_auction_post/res_auction_post_widget.dart'
+    show ResAuctionPostWidget;
+export '/auction/j_s_find_post/j_s_find_post_widget.dart' show JSFindPostWidget;
+export '/waste_segregator/waste_segregator_dashboard_s_a/waste_segregator_dashboard_s_a_widget.dart'
+    show WasteSegregatorDashboardSAWidget;
+export '/waste_segregator/waste_segregator_dashboard_b_a/waste_segregator_dashboard_b_a_widget.dart'
+    show WasteSegregatorDashboardBAWidget;
+export '/waste_segregator/logs/logs_widget.dart' show LogsWidget;
